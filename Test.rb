@@ -1,5 +1,5 @@
 
-https://github.com/nidnayan/ruby-on-rails-api.git
+#!/usr/bin/env ruby
 
 puts "hello world"
 
