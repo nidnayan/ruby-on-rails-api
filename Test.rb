@@ -1,6 +1,6 @@
 
 #!/usr/bin/env ruby
 
-puts "hello world"
+puts "hello world again!!"
 
 puts "Git commit/push success"
